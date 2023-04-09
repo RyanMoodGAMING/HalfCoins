@@ -1,0 +1,7 @@
+name: HalfCoins
+version: '${project.version}'
+main: me.ryanmood.halfcoins.HalfCoins
+api-version: 1.19
+depend: [ Vault ]
+authors: [ RyanMood ]
+website: ryanmood.ml
