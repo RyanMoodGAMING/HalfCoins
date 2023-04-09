@@ -1,6 +1,6 @@
 # HalfCoins
 
-Upon a player dieing, they will loose half of ther 
+Upon a player dieing, they will loose half of there balance.
 
 ## Normal Installation (Non-Developer)
 
