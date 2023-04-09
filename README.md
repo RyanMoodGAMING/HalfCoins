@@ -1,10 +1,13 @@
 # HalfCoins
 
-Upon a player dieing, they will loose half of there balance.
+Upon a player dieing, they will loose half of there balance.  
 
-## Normal Installation (Non-Developer)
+## Normal Installation (Non-Developer) 
 
-You can download the latest version of the plugin from [the releases tab on github](https://github.com/RyanMoodGAMING/HalfCoins/releases).
+You can download the latest version of the plugin from [the releases tab on github](https://github.com/RyanMoodGAMING/HalfCoins/releases).  
+
+This plugin requires [Vault](https://dev.bukkit.org/projects/vault) to be used on your server.  
+You must have an existing economy plugin on your server such as [EssentialsX](https://essentialsx.net/).  
 
 ## Developer Controbrution
 
